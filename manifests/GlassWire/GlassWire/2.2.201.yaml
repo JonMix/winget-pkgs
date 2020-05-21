@@ -1,0 +1,16 @@
+Id: SecureMix.GlassWire
+Name: GlassWire
+Version: 2.2.201
+Publisher: SecureMix LLC
+AppMoniker: GlassWire
+Homepage: https://www.glasswire.com/
+Description: GlassWire Network Monitor & Firewall
+License: Copyright © 2020 SecureMix LLC. All rights reserved.
+LicenseUrl: https://www.glasswire.com/license/
+InstallerType: Exe
+Installers:
+- Arch: x86
+Url: https://download.glasswire.com/GlassWireSetup.exe
+Sha256:  8B8BF7F6CD7390D0A5C27C9069077FD062E3BD5100462C67F401591FA6A6F10A
+Switches:
+Silent: /S
