@@ -1,6 +1,6 @@
 Id: SecureMix.GlassWire
 Name: GlassWire
-Version: 2.2.201
+Version: 2.2.268
 Publisher: SecureMix LLC
 AppMoniker: GlassWire
 Homepage: https://www.glasswire.com/
@@ -11,6 +11,6 @@ InstallerType: Exe
 Installers:
 - Arch: x86
 Url: https://download.glasswire.com/GlassWireSetup.exe
-Sha256:  8B8BF7F6CD7390D0A5C27C9069077FD062E3BD5100462C67F401591FA6A6F10A
+Sha256:  2CD73A4CB0091E1D131FBC9F50C01284404222326E1E11F33430D5EA4689D6B8
 Switches:
 Silent: /S
