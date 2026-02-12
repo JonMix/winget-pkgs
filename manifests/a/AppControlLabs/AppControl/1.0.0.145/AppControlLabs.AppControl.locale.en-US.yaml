@@ -1,0 +1,10 @@
+PackageIdentifier: AppControlLabs.AppControl
+PackageVersion: 1.0.0.145
+PackageLocale: en-US
+Publisher: AppControl Labs
+PackageName: AppControl
+License: Freeware
+Copyright: (c)2025-2026 AppControl Labs
+ShortDescription: AppControl is a modern Task Manager for Windows that lets you track CPU, GPU, memory, disk, and temperature history, set alerts, and control background apps for better performance and privacy.
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
