@@ -1,0 +1,10 @@
+PackageIdentifier: AppControlLabs.AppControl
+PackageVersion: 1.0.0.145
+InstallerType: exe
+Installers:
+- Architecture: x64
+  InstallerUrl: https://www.appcontrol.com/files/AppControlSetup.exe
+  InstallerSha256: 3c38f24777eaccfe370652f5615ac956dc103802c8d3ab7debf14ad176b405f1
+  Scope: machine
+ManifestType: installer
+ManifestVersion: 1.0.0
